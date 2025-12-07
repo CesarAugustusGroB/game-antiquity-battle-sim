@@ -1,0 +1,5 @@
+{
+  "name": "Antiquity: Grimdark Battle Sim",
+  "description": "A cinematic, Total War-style battle simulation using Canvas API and React. Features complex unit AI, formations, morale systems, and a Gemini-powered tactical advisor.",
+  "requestFramePermissions": []
+}
